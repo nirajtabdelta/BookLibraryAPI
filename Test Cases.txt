@@ -1,0 +1,9 @@
+Test Case
+
+1)Inset new Record manage id automatically
+
+2)CURD Manage with Search
+
+3)soft delete
+
+4)Delete record not get in data List
